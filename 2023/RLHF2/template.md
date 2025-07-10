@@ -19,7 +19,7 @@
 ### The How
 
 *In bullet points, what are the key components of their proposed solution? Explain them simply, as if you were teaching a colleague.*
-
+![alt text](image.png)
 
 
 ---
